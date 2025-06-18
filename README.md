@@ -1,1 +1,3 @@
-# TypeScript-Api
+Run `tsx index.ts`
+
+Buid `npm install`
